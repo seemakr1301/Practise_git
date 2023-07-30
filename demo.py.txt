@@ -1,2 +1,3 @@
 print("hello world")
 print("seema kumari")
+print("how are you")
